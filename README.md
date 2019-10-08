@@ -1,4 +1,4 @@
-# ***Investigate Titanic Dataset***
+# Investigate: ***Titanic Dataset***
 
 <h1> History</h1>
 
